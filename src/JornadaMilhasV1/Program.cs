@@ -23,7 +23,7 @@ while (true)
             break;
         case "3":
             Console.WriteLine("Ofertas com maior desconto:");
-            return;
+            break;
         case "4":
             Console.WriteLine("Obrigada por utilizar o Jornada Milhas. Até mais!");
             return;
